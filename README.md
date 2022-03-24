@@ -35,11 +35,11 @@ Unlock it automatically and remotely with your smartphone or smart home system.
 
 The following modules are included in this repository (in alphabetical order):
 
-- __Configurator__ ([Dokumentation](docs/WebAPI/de/Configurator/README.md))  
+- __Configurator__ ([Dokumentation](docs/WebAPI/en/Configurator/README.md))  
   This module manages the existing devices.
 
-- __SmartLock__ ([Dokumentation](docs/WebAPI/de/SmartLock/README.md))  
+- __SmartLock__ ([Dokumentation](docs/WebAPI/en/SmartLock/README.md))  
   This module integrates your tedee Smart Lock.
 
-- __Splitter__ ([Dokumentation](docs/WebAPI/de/Splitter/README.md))  
+- __Splitter__ ([Dokumentation](docs/WebAPI/en/Splitter/README.md))  
   This module establishes communication with the tedee Web API.
