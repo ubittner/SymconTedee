@@ -75,6 +75,11 @@
       "type": "ExpansionPanel",
       "caption": "Developer area",
       "items": [
+        {
+          "type": "Button",
+          "caption": "List devices",
+          "onClick": "$devices = TEDEESW_GetDevicesWithDetails($id); print_r(json_decode($devices, true);"
+        }
       ]
     }
   ],
