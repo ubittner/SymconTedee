@@ -78,7 +78,7 @@
         {
           "type": "Button",
           "caption": "List devices",
-          "onClick": "$devices = TEDEESW_GetDevicesWithDetails($id); print_r(json_decode($devices, true);"
+          "onClick": "$devices = TEDEESW_GetDevicesWithDetails($id); print_r(json_decode($devices, true));"
         }
       ]
     }
