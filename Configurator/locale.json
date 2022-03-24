@@ -1,0 +1,12 @@
+{
+  "translations": {
+    "de": {
+      "Configurator (Web API)": "Konfigurator (Web API)",
+      "Please select the category for the devices": "Bitte wählen Sie die Kategorie für die Geräte aus",
+      "Category": "Kategorie",
+      "Device ID": "Geräte ID",
+      "Serial number": "Seriennummer",
+      "Device type": "Gerätetyp"
+    }
+  }
+}

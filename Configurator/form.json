@@ -1,0 +1,64 @@
+{
+  "elements": [
+    {
+      "type": "Image",
+      "image": "data:image/png;base64, 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"
+    },
+    {
+      "type": "Label",
+      "caption": "Configurator (Web API)"
+    },
+    {
+      "type": "Label",
+      "caption": "Version:"
+    },
+    {
+      "type": "Label",
+      "caption": " "
+    },
+    {
+      "type": "Label",
+      "caption": "Please select the category for the devices"
+    },
+    {
+      "type": "SelectCategory",
+      "name": "CategoryID",
+      "caption": "Category"
+    }
+  ],
+  "actions": [
+    {
+      "type": "Configurator",
+      "name": "Configurator",
+      "delete": true,
+      "sort": {
+        "column": "DeviceID",
+        "direction": "ascending"
+      },
+      "columns": [
+        {
+          "name": "DeviceID",
+          "caption": "Device ID",
+          "width": "150px"
+        },
+        {
+          "caption": "Name",
+          "name": "name",
+          "width": "400px"
+        },
+        {
+          "name": "DeviceSerialNumber",
+          "caption": "Serial number",
+          "width": "250px"
+        },
+        {
+          "name": "DeviceType",
+          "caption": "Device type",
+          "width": "auto"
+        }
+      ],
+      "values": []
+    }
+  ],
+  "status": []
+}

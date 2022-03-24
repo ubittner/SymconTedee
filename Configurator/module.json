@@ -1,0 +1,16 @@
+{
+  "id": "{3BEAD93D-E5B9-8A95-1974-F7601B7FBAC4}",
+  "name": "Tedee Configurator Web API",
+  "type": 4,
+  "vendor": "tedee",
+  "aliases": [],
+  "parentRequirements": [
+    "{BE7F44AC-CE78-7863-C18B-88CD4D2E4B30}"
+  ],
+  "childRequirements": [],
+  "implemented": [
+    "{D52909D6-D39A-AC0A-FC46-378E5DEA519B}"
+  ],
+  "prefix": "TEDEECW",
+  "url": "https://github.com/ubittner/SymconTedee"
+}

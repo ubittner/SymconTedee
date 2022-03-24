@@ -1,0 +1,17 @@
+{
+  "translations": {
+    "de": {
+      "Active": "Aktiv",
+      "To authenticate via personal access key (PAK) first you need to generate it on your account. To do this you can use Tedee Portal.": "Um sich über den persönlichen Zugangsschlüssel (PAK) zu authentifizieren, müssen Sie ihn zunächst in Ihrem Konto generieren. Dazu können Sie das Tedee Portal verwenden.",
+      "Tedee Documentation": "Tedee Dokumentation",
+      "Milliseconds": "Millisekunden",
+      "Developer area": "Entwicklerbereich",
+      "Tedee Splitter (Web API) will be created": "Tedee Splitter (Web API) wird erstellt",
+      "Tedee Splitter (Web API) is active": "Tedee Splitter (Web API) ist aktiv",
+      "Tedee Splitter (Web API) will be deleted": "Tedee Splitter (Web API) wird gelöscht",
+      "Tedee Splitter (Web API) is inactive": "Tedee Splitter (Web API) ist inaktiv",
+      "An error has occurred, for further information see messages, log file or debug!": "Es ist Fehler aufgetreten, weitere Informationen unter Meldungen, im Log oder Debug!",
+      "Please check your configuration!": "Bitte überprüfen Sie Ihre Konfiguration"
+    }
+  }
+}

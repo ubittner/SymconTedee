@@ -1,0 +1,12 @@
+{
+  "id": "{108EA9EC-FA0F-BCBB-9644-1D19E770CE3B}",
+  "name": "Tedee",
+  "author": "Ulrich Bittner",
+  "url": "https://github.com/ubittner/SymconTedee",
+  "compatibility": {
+    "version": "6.0"
+  },
+  "version": "1.0",
+  "build": 1,
+  "date": 1648110099
+}

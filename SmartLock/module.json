@@ -1,0 +1,16 @@
+{
+  "id": "{EBD2F6F5-BCB6-4E11-383A-5529BBFE4EC5}",
+  "name": "Tedee Smart Lock Web API",
+  "type": 3,
+  "vendor": "tedee",
+  "aliases": [],
+  "parentRequirements": [
+    "{BE7F44AC-CE78-7863-C18B-88CD4D2E4B30}"
+  ],
+  "childRequirements": [],
+  "implemented": [
+    "{D52909D6-D39A-AC0A-FC46-378E5DEA519B}"
+  ],
+  "prefix": "TEDEESLW",
+  "url": "https://github.com/ubittner/SymconTedee"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "{5D366804-5DF3-FE00-F4C3-F00CB093848E}",
+  "name": "Tedee Splitter Web API",
+  "type": 2,
+  "vendor": "tedee",
+  "aliases": [],
+  "parentRequirements": [],
+  "childRequirements": [
+    "{D52909D6-D39A-AC0A-FC46-378E5DEA519B}"
+  ],
+  "implemented": [
+    "{BE7F44AC-CE78-7863-C18B-88CD4D2E4B30}"
+  ],
+  "prefix": "TEDEESW",
+  "url": "https://github.com/ubittner/SymconTedee"
+}
